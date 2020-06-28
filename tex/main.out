@@ -1,0 +1,19 @@
+\BOOKMARK [0][-]{section*.2}{Simulating Liquid Crystals}{}% 2
+\BOOKMARK [1][-]{section*.1}{Abstract}{section*.2}% 1
+\BOOKMARK [1][-]{section*.3}{Introduction \205 Liquid Crystals}{section*.2}% 3
+\BOOKMARK [2][-]{section*.4}{History}{section*.3}% 4
+\BOOKMARK [2][-]{section*.6}{Formal Definition}{section*.3}% 5
+\BOOKMARK [2][-]{section*.8}{Types of Liquid Crystals}{section*.3}% 6
+\BOOKMARK [3][-]{section*.9}{Nematics}{section*.8}% 7
+\BOOKMARK [3][-]{section*.10}{Smectics}{section*.8}% 8
+\BOOKMARK [3][-]{section*.11}{Columnar phases}{section*.8}% 9
+\BOOKMARK [1][-]{section*.17}{Verification of Code}{section*.2}% 10
+\BOOKMARK [2][-]{section*.18}{Core Simulation}{section*.17}% 11
+\BOOKMARK [3][-]{section*.19}{Capacitor Fields via Laplace relaxation}{section*.18}% 12
+\BOOKMARK [3][-]{section*.21}{LC Alignment via Runge-Kutta}{section*.18}% 13
+\BOOKMARK [2][-]{section*.22}{Verification}{section*.17}% 14
+\BOOKMARK [3][-]{section*.23}{Capacitor Fields}{section*.22}% 15
+\BOOKMARK [3][-]{section*.27}{LC Alignment}{section*.22}% 16
+\BOOKMARK [1][-]{section*.29}{Discussion and Future Work}{section*.2}% 17
+\BOOKMARK [1][-]{section*.30}{Acknowledgements}{section*.2}% 18
+\BOOKMARK [1][-]{section*.31}{References}{section*.2}% 19
